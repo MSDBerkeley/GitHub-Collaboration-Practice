@@ -1,0 +1,8 @@
+git pull 
+git checkout -b "raffas_new_branch"
+nano Group-9-Project.txt 
+touch raffas_commands.txt 
+nano_raffas_commands.txt
+git add .
+git commit -m "raffas edits" 
+git push
