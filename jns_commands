@@ -1,9 +1,10 @@
 cd /Users/jaclynschess/git/Computational-Social-Science-Projects
 ls
 cd GitHub-Collaboration-Practice
+git checkout -b jns_branch
 nano Group-9-Project.txt
 touch jns_commands
 nano jns_commands
 git add *
-git commit -m "JNS updates"
-git push
+git commit -m "JNS branch updates"
+git push --set-upstream origin jns_branch
