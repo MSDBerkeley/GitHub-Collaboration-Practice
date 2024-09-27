@@ -8,3 +8,5 @@ nano jns_commands
 git add *
 git commit -m "JNS branch updates"
 git push --set-upstream origin jns_branch
+git commit -m "JNS updates"
+git push
